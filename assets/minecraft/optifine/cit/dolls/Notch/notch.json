@@ -1,7 +1,7 @@
 {
 	"credit": "by thereizi",
 	"textures": {
-		"texture": "item/totem"
+		"texture": "./notch"
 	},
 	"elements": [
 		{
