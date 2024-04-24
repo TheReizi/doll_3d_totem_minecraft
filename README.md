@@ -70,7 +70,7 @@ In conclusion, I would like to say that all these 3 types of resource pack chang
 
 # BONUS / БОНУС
 ## ENG
-The resourcepack comes pre-installed with 9 totem skins, which can be changed by changing the totem name:
+The resourcepack comes pre-installed with 10 totem skins, which can be changed by changing the totem name:
 - Alex - the official standard skin of Mojang.
 - Angel - a spiritual being who communicates the will of God and has supernatural powers.
 - Doomguy - a character from the DOOM series of games.
@@ -80,8 +80,9 @@ The resourcepack comes pre-installed with 9 totem skins, which can be changed by
 - Notch - the creator of Minecraft.
 - Steve - the official default skin of Mojang.
 - TheReizi - the creator of this resource pack.
+- Demongirl - supernatural being inferior to the gods
 ## RUS
-В ресурспаке предустановлено 9 скинов на тотем, которые можно сменить через изменения названия тотема:
+В ресурспаке предустановлено 10 скинов на тотем, которые можно сменить через изменения названия тотема:
 - Алекс - официальный стандартный скин Mojang.
 - Ангел -  духовное существо, сообщающее волю Бога и обладающее сверхъестественными возможностями.
 - Думгай - персонаж из серии игр 'DOOM'.
@@ -91,3 +92,4 @@ The resourcepack comes pre-installed with 9 totem skins, which can be changed by
 - Нотч - создатель Minecraft.
 - Стив - официальный стандартный скин Mojang.
 - ЗеРейзи - создатель данного ресурспака.
+- Дьяволица - сверхъестественное существо, занимающее низшее по сравнению с богами положение
